@@ -1,1 +1,8 @@
-1. Requirements for pre-installation: An operating system is required. Windows, MacOS or Linux. For Windows XP or 2003 are not supported. You can download a compatible version of XAMPP for these platforms here (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/). For MacOS, a native installer installs MariaDB, PHP, Perl, etc. directly onto your system. It supports intel (x64) or Apple M1 (arm64) CPUs.
+1. Requirements for pre-installation: 
+  An operating system is required. Windows, MacOS or Linux. For Windows XP or 2003 are not supported. You can download a compatible version of XAMPP for these platforms 
+  here (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/). For MacOS, a native installer installs MariaDB, PHP, Perl, etc. directly onto your system. 
+  It supports intel (x64) or Apple M1 (arm64) CPUs.
+
+2. Steps and instructions for installation:
+  Step 1: Download & install the XAMPP (https://www.apachefriends.org/download.html).
+  Step 2: 
