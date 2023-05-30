@@ -1,13 +1,16 @@
 1. Requirements for pre-installation: 
   An operating system is required. Windows, MacOS or Linux. For Windows XP or 2003 are not supported. You can download a compatible version of XAMPP for these platforms 
-  here (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/). For MacOS, a native installer installs MariaDB, PHP, Perl, etc. directly onto your system. 
+  here "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.8.2/". For MacOS, a native installer installs MariaDB, PHP, Perl, etc. directly onto your system. 
   It supports intel (x64) or Apple M1 (arm64) CPUs.
 
 2. Steps and instructions for installation:
-  Step 1: Download & install the XAMPP (https://www.apachefriends.org/download.html).
-  Step 2: Download all the source code to your computer (https://github.com/Morris86/Open-Source-Practice-Project/tree/b71b67bd5c136ec833b613bd726884a4f1663d8b/src).
+  Step 1: Download & install the XAMPP "https://www.apachefriends.org/download.html".
+  Step 2: Download all the source code to your computer "https://github.com/Morris86/Open-Source-Practice-Project/tree/b71b67bd5c136ec833b613bd726884a4f1663d8b/src".
   Step 3: Open your local drive and search for a folder called xampp, then \htdocs and create a folder named "login-register".
   Step 4: Open the XAMPP control pannel then start the Apache and MySQL.
-  Step 5: 
-  Step : Open your browser, and type in http://localhost/login-register/index.html and see if the website are working 
+  Step 5: Open your browser, type in "http://localhost/phpmyadmin/" then create a new database call "user info", then create a table call "registration" and give it 4 columes.
+          Please note that incorrect names could result in errors.
+  Step 6: Now we have to fill in those columns. First column will be: Name= id, Type= int, Index= PRIMARY. Second columns will be: Name= name, Type = varchar, Value= 50.
+          Third columns will be: Name= email, Type = varchar, Value= 50. Fourth columns will be: Name= password, Type = varchar, Value= 20.
+  Step : Open your browser and type in "http://localhost/login-register/index.html" and see if the website are working 
   
