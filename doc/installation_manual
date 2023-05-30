@@ -11,6 +11,6 @@
   Step 5: Open your browser, type in "http://localhost/phpmyadmin/" then create a new database call "user info", then create a table call "registration" and give it 4 columes.
           Please note that incorrect names could result in errors.
   Step 6: Now we have to fill in those columns. First column will be: Name= id, Type= int, Index= PRIMARY. Second columns will be: Name= name, Type = varchar, Value= 50.
-          Third columns will be: Name= email, Type = varchar, Value= 50. Fourth columns will be: Name= password, Type = varchar, Value= 20.
-  Step : Open your browser and type in "http://localhost/login-register/index.html" and see if the website are working 
+          Third columns will be: Name= email, Type = varchar, Value= 50. Fourth columns will be: Name= password, Type = varchar, Value= 20. Then click save to finish up.
+  Step 7: Open your browser and type in "http://localhost/login-register/index.html" and see if the website is working.
   
