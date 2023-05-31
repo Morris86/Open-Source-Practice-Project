@@ -9,7 +9,8 @@
 <body>
     <div class="container">
         <form action="logout.php" method="post">
-            <h3>Welcome to Dashboard</h3>
+            <h3>Welcome to the dashboard</h3>
+            <h4>If you're on this page it means that you've successfully registered & logged in!</h4>
             <button type="submit" name="logout">Log out</button>
         </form>
     </div>
