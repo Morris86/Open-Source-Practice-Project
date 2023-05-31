@@ -15,6 +15,9 @@
 4. Instructions for a unsuccessful registration process:
   Step 1: Go to signup and you will see three inputs, name, email, and password. Please type in an empty username or a username that is more than 50 characters. 
   Step 2: Type in an invalid email (don't include @).
-  Step 3: Finally, type in a password (it could be numbers or characters).
-  Step 4: After you finished, hit the sign-up button and you will see a message saying you have successfully created the account. 
-  Step 5 : Go back to previuos page (the sign up & sign in page).
+  Step 3: Finally, type in a password, use special characters or type more than 25 characters.
+  Step 4: After you finished, hit the sign-up button and you will see some error messages.
+  
+5. Instructions for a unsuccessful login process:
+  Step 1: Go to sign-in and type in the wrong email address or password.
+  Step 2: After you finished, hit the sign-in button and you will see some error messages.
