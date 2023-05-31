@@ -10,7 +10,7 @@ We use HTML, CSS, and JavaScript to write the frontend tier, then connect the HT
 
 General Constraints: Due to limited time and resources, we might be unable to create a full-fledged web application; it might not be able to manage high-traffic flow.  The website would only work on Localhost.
 
-Goals: Create a fully functional aesthetic webpage that's easy to use, with an excellent user interface and straightforward navigation.
+Goals: Create a fully functional aesthetic webpage that's easy to use, with an excellent user interface and straightforward navigation. With fool proof system to prevent user errors.
 
 (4) System Architecture
 
