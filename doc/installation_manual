@@ -6,7 +6,7 @@
 2. Steps and instructions for installation:
   Step 1: Download & install the XAMPP "https://www.apachefriends.org/download.html".
   Step 2: Download all the source code to your computer "https://github.com/Morris86/Open-Source-Practice-Project/tree/b71b67bd5c136ec833b613bd726884a4f1663d8b/src".
-  Step 3: Open your local drive and search for a folder called xampp, then \htdocs and create a folder named "login-register".
+  Step 3: Open your local drive and search for a folder called xampp, then \htdocs and create a folder named "login-register". Put all the files you download inside it.
   Step 4: Open the XAMPP control pannel then start the Apache and MySQL.
   Step 5: Open your browser, type in "http://localhost/phpmyadmin/" then create a new database call "user info", then create a table call "registration" and give it 4 columes.
           Please note that incorrect names could result in errors.
