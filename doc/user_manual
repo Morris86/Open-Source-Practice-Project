@@ -1,4 +1,5 @@
-1. This is s user manual for the website, please follow the instruction below to fully utilize the system.
+1. This is s user manual for the website, please follow the instruction below to fully utilize the system. Be sure to turn on the Apache
+  and MySQL server in XAMPP.
 
 2. Instructions for a successful registration process:
   Step 1: Go to signup and you will see three inputs, name, email, and password. Please type in a username (it can't be empty). 
